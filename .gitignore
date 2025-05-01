@@ -1,0 +1,6 @@
+/backend/config.php
+/backend/data/*
+node_modules/
+# .idea/      # If you use IntelliJ IDEA
+.vscode/    # If you use Visual Studio Code
+*~          # Temporary files ending in ~
