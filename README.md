@@ -1,0 +1,1 @@
+This was the very first attempt, was kinda stressful to run because of a few javascript errors. ANy decent developer will see the hillarious error, correct it and be able to run this. Just create your owwn dummy databse and have fun.
